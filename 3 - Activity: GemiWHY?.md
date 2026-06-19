@@ -27,7 +27,7 @@
 2. Find one **news source**.
 3. Find one **opinion piece or blog**.
 4. Compare how each one explains the topic. Which do you trust most, and why?
-5. **Write** the discussion in 200 words or more.
+5. **Write** the discussion in 300 words or more.
 
 
     * **Discuss**: Identify issues and provide points for and/or against. In other words, using the SEE scaffold, write one argument **for AI** for learning (the benefits), and one argument **against AI** for learning (the drawbacks).
