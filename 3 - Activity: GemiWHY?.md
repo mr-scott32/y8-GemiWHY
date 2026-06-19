@@ -6,7 +6,7 @@
 >
 > * "Impact of logging on the environment"
 > * "Impact of logging restrictions on the economy"
-> * "Misinformation about logging on the environment"
+> * "Misinformation about native forest logging"
 
 1. Look at the first page of results and choose three websites for each prompt.
 2. For each website, answer:
