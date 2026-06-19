@@ -19,15 +19,15 @@
 
 ### Activity 2: Google Skills Challenge
 
-> Using only Google's search engine (NOT the gemini overview), explore the following question:
+> Using only Google's search engine (NOT Gemini), explore the following question:
 >
-> **Discuss** the benefits and drawbacks of using Generative AI for learning.
+> **Discuss** the benefits and drawbacks of logging in Australia. Use examples to support your response.
 
 1. Find one **academic source** (e.g., government, university, or scientific website).
 2. Find one **news source**.
 3. Find one **opinion piece or blog**.
 4. Compare how each one explains the topic. Which do you trust most, and why?
-5. **Write** the discussion in 200 words or less.
+5. **Write** the discussion in 200 words or more.
 
 
     * **Discuss**: Identify issues and provide points for and/or against. In other words, using the SEE scaffold, write one argument **for AI** for learning (the benefits), and one argument **against AI** for learning (the drawbacks).
