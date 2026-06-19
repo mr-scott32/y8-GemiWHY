@@ -45,4 +45,3 @@
 None of this is saying that AI or Google's AI overview is inheritly evil or some kind of "dark magic", but if you rely on it too much, you may not develop the necessary critical thinking skills to keep up with the academic rigour demanded throughout high school.
 
 AI is great for providing a quick overview of a topic, but to truly develop academically you need to avoid always taking the easy way out and work hard to develop your skills.&#x20;
-{% endhint %}
