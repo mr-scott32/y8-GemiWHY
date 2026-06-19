@@ -30,7 +30,7 @@
 5. **Write** the discussion in 300 words or more.
 
 
-    * **Discuss**: Identify issues and provide points for and/or against. In other words, using the SEE scaffold, write one argument **for AI** for learning (the benefits), and one argument **against AI** for learning (the drawbacks).
+    * **Discuss**: Identify issues and provide points for and/or against. In other words, using the SEE scaffold, write at least two arguments **for logging** (the benefits), and at least two arguments **against logging** (drawbacks).
 
 6. Now, explore the Google AI overview.&#x20;
    1. Identify the sources it provided.
