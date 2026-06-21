@@ -4,7 +4,7 @@
 
 <details>
 
-<summary>Artificial Intelligence</summary>
+<summary>## Artificial Intelligence</summary>
 
 the application of computer systems able to perform tasks or produce output normally requiring human intelligence, especially by applying machine learning techniques to large collections of data; artificial intelligence.
 
@@ -12,7 +12,7 @@ the application of computer systems able to perform tasks or produce output norm
 
 <details>
 
-<summary>Search Engine</summary>
+<summary>## Search Engine</summary>
 
 a program that searches for and identifies items in a database that correspond to keywords or characters specified by the user, used especially for finding particular sites on the internet.
 
