@@ -16,6 +16,7 @@
 
     * **Outline**: Sketch in general terms. In other words, give an brief overview of how the sources are different depending on the prompt.
 
+---
 
 ### Activity 2: Google Skills Challenge
 
@@ -30,12 +31,13 @@
 5. **Write** the discussion in 300 words or more.
 
 
-    * **Discuss**: Identify issues and provide points for and/or against. In other words, using the SEE scaffold, write at least two arguments **for logging** (the benefits), and at least two arguments **against logging** (drawbacks).
+    * _**Discuss**_: Identify issues and provide points for and/or against. In other words, using the SEE scaffold, write at least two arguments **for logging** (the benefits), and at least two arguments **against logging** (drawbacks).
 
 6. Now, explore the Google AI overview.&#x20;
    1. Identify the sources it provided.
    2. Assess these sources - were they as reliable or as detailed? Were academic sources included?
    3. Compare the AI overview with the sources you found - was the information provided as in-depth?
+      
 7. **Write a reflection:** In 100 words or less, reflect on whether or not exploring the above topic and investigating sources yourself has benefited your learning when compared with using Gemini's AI overview.
 
 
