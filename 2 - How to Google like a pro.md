@@ -1,4 +1,4 @@
-# How to Google Like a Pro
+# Google Like a Pro
 
 Using Google might feel as simple as typing in a question, but the way you search can change everything. Here are some tips to help you get the *best* results and avoid wasting time.
 
