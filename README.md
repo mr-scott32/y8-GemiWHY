@@ -17,6 +17,7 @@ Read through the following first. To access them, click the files on the left ha
 
 * **Share**: Your teacher will ask for members of each group to share what they have discussed with the rest of the class. This will take 3-5 minutes.
 
+## 3 - Activities
 After reading through the above, complete>
 * 3 - _Activity: GemiWHY?.md_
 
